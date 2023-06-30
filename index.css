@@ -1,0 +1,29 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image:url("blackjack.png") ;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div{
+    padding-bottom: 30 px;
+    
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+#choose-card{
+    color:blue;
+}
+button{
+    padding-top: 5px;
+    padding: 5px;
+    border-radius:2px;
+    border:none;
+    font-weight: bold;
+    color:#016f32;
+    padding-left: 15px;
+    padding-right: 15px;
+    width:200 px;
+    background-color: goldenrod;
+}
